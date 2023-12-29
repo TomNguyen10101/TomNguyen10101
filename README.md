@@ -9,7 +9,7 @@ I have been coding for 4 years now since 2019. Love developing app and will focu
 * 🌍  I'm based in Salt Lake City, Utah
 * 🖥️  See my portfolio at [My Website](http://tomnguyen10101.github.io)
 * ✉️  You can contact me at [lamquan1245@gmail.com](mailto:lamquan1245@gmail.com)
-* 🚀  I'm currently working on [Music Streaming App](http://github.com/TomNguyen10101/Music-Streaming-Application)
+* 🚀  I'm currently working on [Music Server/Client App](http://github.com/TomNguyen10101/Music-Streaming-Application)
 * 🧠  I'm learning Multithreading and Streaming Protocol for Client/Server
 * 🤝  I'm open to collaborating on any project
 
