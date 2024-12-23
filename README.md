@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Quan Nguyen
 ===================================================================================================================================
 
-Software Engineering Student
+Software Engineering
 ----------------------------
 
 I have been coding for 4 years now since 2019. Love developing app and will focus more on the security aspect of coding in the future !!!
